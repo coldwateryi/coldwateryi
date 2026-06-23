@@ -1,3 +1,3 @@
 # coldwateryi
 
-GenSpark AI Developer 项目仓库
+个人兴趣小工具 项目仓库
